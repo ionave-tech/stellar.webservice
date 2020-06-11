@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/stellar.webservice/.vs/stellar.webservice/v16
+/stellar.webservice/stellar.webservice/obj
