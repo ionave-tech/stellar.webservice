@@ -1,0 +1,806 @@
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\API.dll
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\API.pdb
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\Antlr3.Runtime.dll
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\CIGNAL_ENTITY.dll
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\CIGNAL_PROCESS.dll
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\EntityFramework.dll
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\Microsoft.Web.Infrastructure.dll
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\Newtonsoft.Json.dll
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\System.Net.Http.dll
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\System.Net.Http.Formatting.dll
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\System.Net.Http.WebRequest.dll
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\System.Web.Helpers.dll
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\System.Web.Http.dll
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\System.Web.Http.WebHost.dll
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\System.Web.Mvc.dll
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\System.Web.Optimization.dll
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\System.Web.Providers.dll
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\System.Web.Razor.dll
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\System.Web.WebPages.Deployment.dll
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\System.Web.WebPages.dll
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\System.Web.WebPages.Razor.dll
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\WebGrease.dll
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\CIGNAL_DATA.dll
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\Microsoft.Practices.ObjectBuilder.dll
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\CIGNAL_ENTITY.pdb
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\CIGNAL_PROCESS.pdb
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\EntityFramework.xml
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\Newtonsoft.Json.xml
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\System.Net.Http.xml
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\System.Net.Http.Formatting.xml
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\System.Net.Http.WebRequest.xml
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\System.Web.Helpers.xml
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\System.Web.Http.xml
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\System.Web.Http.WebHost.xml
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\System.Web.Mvc.xml
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\System.Web.Razor.xml
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\System.Web.WebPages.xml
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\System.Web.WebPages.Deployment.xml
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\System.Web.WebPages.Razor.xml
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\bin\CIGNAL_DATA.pdb
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\obj\Debug\API.dll
+C:\HATALAVERA\APPLICATIONS\CIGNALAPI\CIGNALAPI\API\obj\Debug\API.pdb
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\API.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\API.pdb
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\Antlr3.Runtime.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\CIGNAL_ENTITY.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\CIGNAL_PROCESS.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\EntityFramework.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\Newtonsoft.Json.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\System.Net.Http.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\System.Net.Http.Formatting.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\System.Net.Http.WebRequest.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\System.Web.Helpers.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\System.Web.Http.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\System.Web.Http.WebHost.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\System.Web.Mvc.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\System.Web.Optimization.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\System.Web.Providers.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\System.Web.Razor.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\System.Web.WebPages.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\System.Web.WebPages.Razor.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\WebGrease.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\CIGNAL_DATA.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\CIGNAL_ENTITY.pdb
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\CIGNAL_PROCESS.pdb
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\EntityFramework.xml
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\Newtonsoft.Json.xml
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\System.Net.Http.xml
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\System.Net.Http.Formatting.xml
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\System.Net.Http.WebRequest.xml
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\System.Web.Helpers.xml
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\System.Web.Http.xml
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\System.Web.Http.WebHost.xml
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\System.Web.Mvc.xml
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\System.Web.Razor.xml
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\System.Web.WebPages.xml
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\System.Web.WebPages.Razor.xml
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\bin\CIGNAL_DATA.pdb
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\obj\Debug\API.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALAPI\API\obj\Debug\API.pdb
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\API.dll.config
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\API.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\API.pdb
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\Antlr3.Runtime.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\CIGNAL_DATA.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\CIGNAL_ENTITY.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\CIGNAL_PROCESS.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\EntityFramework.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\Newtonsoft.Json.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\System.Net.Http.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\System.Net.Http.Formatting.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\System.Net.Http.WebRequest.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\System.Web.Helpers.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\System.Web.Http.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\System.Web.Http.WebHost.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\System.Web.Mvc.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\System.Web.Optimization.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\System.Web.Providers.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\System.Web.Razor.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\System.Web.WebPages.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\System.Web.WebPages.Razor.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\WebGrease.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\CIGNAL_DATA.pdb
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\CIGNAL_ENTITY.pdb
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\CIGNAL_PROCESS.pdb
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\EntityFramework.xml
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\Newtonsoft.Json.xml
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\System.Net.Http.xml
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\System.Net.Http.Formatting.xml
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\System.Net.Http.WebRequest.xml
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\System.Web.Helpers.xml
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\System.Web.Http.xml
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\System.Web.Http.WebHost.xml
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\System.Web.Mvc.xml
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\System.Web.Razor.xml
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\System.Web.WebPages.xml
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\bin\System.Web.WebPages.Razor.xml
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\obj\Debug\API.dll
+C:\Users\RCorales\Documents\Visual Studio 2010\Projects\CIGNALBOSSADMIN\API\obj\Debug\API.pdb
+D:\APPLICATIONS\ESAF\version2\API\bin\API.dll.config
+D:\APPLICATIONS\ESAF\version2\API\bin\API.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\API.pdb
+D:\APPLICATIONS\ESAF\version2\API\bin\Antlr3.Runtime.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\CIGNAL_DATA.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\CIGNAL_ENTITY.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\CIGNAL_PROCESS.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\EntityFramework.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\Microsoft.Web.Infrastructure.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\Newtonsoft.Json.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\System.Net.Http.Formatting.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\System.Web.Helpers.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\System.Web.Http.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\System.Web.Http.WebHost.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\System.Web.Mvc.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\System.Web.Optimization.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\System.Web.Providers.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\System.Web.Razor.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\System.Web.WebPages.Deployment.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\System.Web.WebPages.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\System.Web.WebPages.Razor.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\WebGrease.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\CIGNAL_DATA.pdb
+D:\APPLICATIONS\ESAF\version2\API\bin\CIGNAL_ENTITY.pdb
+D:\APPLICATIONS\ESAF\version2\API\bin\CIGNAL_PROCESS.pdb
+D:\APPLICATIONS\ESAF\version2\API\bin\EntityFramework.xml
+D:\APPLICATIONS\ESAF\version2\API\bin\Newtonsoft.Json.xml
+D:\APPLICATIONS\ESAF\version2\API\bin\System.Net.Http.Formatting.xml
+D:\APPLICATIONS\ESAF\version2\API\bin\System.Web.Helpers.xml
+D:\APPLICATIONS\ESAF\version2\API\bin\System.Web.Http.xml
+D:\APPLICATIONS\ESAF\version2\API\bin\System.Web.Http.WebHost.xml
+D:\APPLICATIONS\ESAF\version2\API\bin\System.Web.Mvc.xml
+D:\APPLICATIONS\ESAF\version2\API\bin\System.Web.Razor.xml
+D:\APPLICATIONS\ESAF\version2\API\bin\System.Web.WebPages.xml
+D:\APPLICATIONS\ESAF\version2\API\bin\System.Web.WebPages.Deployment.xml
+D:\APPLICATIONS\ESAF\version2\API\bin\System.Web.WebPages.Razor.xml
+D:\APPLICATIONS\ESAF\version2\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+D:\APPLICATIONS\ESAF\version2\API\obj\Debug\API.dll
+D:\APPLICATIONS\ESAF\version2\API\obj\Debug\API.pdb
+D:\Application\msaf\API\bin\API.dll.config
+D:\Application\msaf\API\bin\API.dll
+D:\Application\msaf\API\bin\API.pdb
+D:\Application\msaf\API\bin\Antlr3.Runtime.dll
+D:\Application\msaf\API\bin\CIGNAL_DATA.dll
+D:\Application\msaf\API\bin\CIGNAL_ENTITY.dll
+D:\Application\msaf\API\bin\CIGNAL_PROCESS.dll
+D:\Application\msaf\API\bin\EntityFramework.dll
+D:\Application\msaf\API\bin\Microsoft.Web.Infrastructure.dll
+D:\Application\msaf\API\bin\Newtonsoft.Json.dll
+D:\Application\msaf\API\bin\System.Net.Http.Formatting.dll
+D:\Application\msaf\API\bin\System.Web.Helpers.dll
+D:\Application\msaf\API\bin\System.Web.Http.dll
+D:\Application\msaf\API\bin\System.Web.Http.WebHost.dll
+D:\Application\msaf\API\bin\System.Web.Mvc.dll
+D:\Application\msaf\API\bin\System.Web.Optimization.dll
+D:\Application\msaf\API\bin\System.Web.Providers.dll
+D:\Application\msaf\API\bin\System.Web.Razor.dll
+D:\Application\msaf\API\bin\System.Web.WebPages.Deployment.dll
+D:\Application\msaf\API\bin\System.Web.WebPages.dll
+D:\Application\msaf\API\bin\System.Web.WebPages.Razor.dll
+D:\Application\msaf\API\bin\WebGrease.dll
+D:\Application\msaf\API\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Application\msaf\API\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Application\msaf\API\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\Application\msaf\API\bin\CIGNAL_DATA.pdb
+D:\Application\msaf\API\bin\CIGNAL_ENTITY.pdb
+D:\Application\msaf\API\bin\CIGNAL_PROCESS.pdb
+D:\Application\msaf\API\bin\EntityFramework.xml
+D:\Application\msaf\API\bin\Newtonsoft.Json.xml
+D:\Application\msaf\API\bin\System.Net.Http.Formatting.xml
+D:\Application\msaf\API\bin\System.Web.Helpers.xml
+D:\Application\msaf\API\bin\System.Web.Http.xml
+D:\Application\msaf\API\bin\System.Web.Http.WebHost.xml
+D:\Application\msaf\API\bin\System.Web.Mvc.xml
+D:\Application\msaf\API\bin\System.Web.Razor.xml
+D:\Application\msaf\API\bin\System.Web.WebPages.xml
+D:\Application\msaf\API\bin\System.Web.WebPages.Deployment.xml
+D:\Application\msaf\API\bin\System.Web.WebPages.Razor.xml
+D:\Application\msaf\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+D:\Application\msaf\API\obj\Debug\API.dll
+D:\Application\msaf\API\obj\Debug\API.pdb
+C:\DGAGUIRRE\Applications\MSAF\API\bin\API.dll.config
+C:\DGAGUIRRE\Applications\MSAF\API\bin\API.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\API.pdb
+C:\DGAGUIRRE\Applications\MSAF\API\bin\Antlr3.Runtime.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\CIGNAL_DATA.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\CIGNAL_ENTITY.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\CIGNAL_PROCESS.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\EntityFramework.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\EntityFramework.SqlServer.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\Microsoft.Owin.Cors.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\Microsoft.Owin.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\Microsoft.Owin.Security.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\Microsoft.Web.Infrastructure.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\Newtonsoft.Json.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\Owin.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\System.Net.Http.Formatting.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\System.Web.Cors.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\System.Web.Helpers.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\System.Web.Http.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\System.Web.Http.Owin.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\System.Web.Http.WebHost.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\System.Web.Mvc.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\System.Web.Optimization.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\System.Web.Providers.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\System.Web.Razor.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\System.Web.WebPages.Deployment.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\System.Web.WebPages.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\System.Web.WebPages.Razor.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\WebGrease.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\Microsoft.Practices.ObjectBuilder.dll
+C:\DGAGUIRRE\Applications\MSAF\API\bin\CIGNAL_DATA.pdb
+C:\DGAGUIRRE\Applications\MSAF\API\bin\CIGNAL_ENTITY.pdb
+C:\DGAGUIRRE\Applications\MSAF\API\bin\CIGNAL_PROCESS.pdb
+C:\DGAGUIRRE\Applications\MSAF\API\bin\EntityFramework.xml
+C:\DGAGUIRRE\Applications\MSAF\API\bin\EntityFramework.SqlServer.xml
+C:\DGAGUIRRE\Applications\MSAF\API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\DGAGUIRRE\Applications\MSAF\API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\DGAGUIRRE\Applications\MSAF\API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\DGAGUIRRE\Applications\MSAF\API\bin\Microsoft.Owin.xml
+C:\DGAGUIRRE\Applications\MSAF\API\bin\Microsoft.Owin.Cors.xml
+C:\DGAGUIRRE\Applications\MSAF\API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\DGAGUIRRE\Applications\MSAF\API\bin\Microsoft.Owin.Security.xml
+C:\DGAGUIRRE\Applications\MSAF\API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\DGAGUIRRE\Applications\MSAF\API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\DGAGUIRRE\Applications\MSAF\API\bin\Newtonsoft.Json.xml
+C:\DGAGUIRRE\Applications\MSAF\API\bin\System.Net.Http.Formatting.xml
+C:\DGAGUIRRE\Applications\MSAF\API\bin\System.Web.Http.xml
+C:\DGAGUIRRE\Applications\MSAF\API\bin\System.Web.Http.Owin.xml
+C:\DGAGUIRRE\Applications\MSAF\API\bin\System.Web.Http.WebHost.xml
+C:\DGAGUIRRE\Applications\MSAF\API\bin\System.Web.Helpers.xml
+C:\DGAGUIRRE\Applications\MSAF\API\bin\System.Web.Mvc.xml
+C:\DGAGUIRRE\Applications\MSAF\API\bin\System.Web.Razor.xml
+C:\DGAGUIRRE\Applications\MSAF\API\bin\System.Web.WebPages.xml
+C:\DGAGUIRRE\Applications\MSAF\API\bin\System.Web.WebPages.Deployment.xml
+C:\DGAGUIRRE\Applications\MSAF\API\bin\System.Web.WebPages.Razor.xml
+C:\DGAGUIRRE\Applications\MSAF\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+C:\DGAGUIRRE\Applications\MSAF\API\obj\Debug\API.dll
+C:\DGAGUIRRE\Applications\MSAF\API\obj\Debug\API.pdb
+D:\APPLICATIONS\ESAF\version2\API\bin\EntityFramework.SqlServer.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\Microsoft.AspNet.Identity.Core.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\Microsoft.Owin.Cors.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\Microsoft.Owin.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\Microsoft.Owin.Security.Cookies.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\Microsoft.Owin.Security.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\Microsoft.Owin.Security.OAuth.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\Owin.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\System.Web.Cors.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\System.Web.Http.Owin.dll
+D:\APPLICATIONS\ESAF\version2\API\bin\EntityFramework.SqlServer.xml
+D:\APPLICATIONS\ESAF\version2\API\bin\Microsoft.AspNet.Identity.Core.xml
+D:\APPLICATIONS\ESAF\version2\API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\APPLICATIONS\ESAF\version2\API\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\APPLICATIONS\ESAF\version2\API\bin\Microsoft.Owin.xml
+D:\APPLICATIONS\ESAF\version2\API\bin\Microsoft.Owin.Cors.xml
+D:\APPLICATIONS\ESAF\version2\API\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\APPLICATIONS\ESAF\version2\API\bin\Microsoft.Owin.Security.xml
+D:\APPLICATIONS\ESAF\version2\API\bin\Microsoft.Owin.Security.Cookies.xml
+D:\APPLICATIONS\ESAF\version2\API\bin\Microsoft.Owin.Security.OAuth.xml
+D:\APPLICATIONS\ESAF\version2\API\bin\System.Web.Http.Owin.xml
+D:\Application\msaf\API\bin\EntityFramework.SqlServer.dll
+D:\Application\msaf\API\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Application\msaf\API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Application\msaf\API\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Application\msaf\API\bin\Microsoft.Owin.Cors.dll
+D:\Application\msaf\API\bin\Microsoft.Owin.dll
+D:\Application\msaf\API\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Application\msaf\API\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Application\msaf\API\bin\Microsoft.Owin.Security.dll
+D:\Application\msaf\API\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Application\msaf\API\bin\Owin.dll
+D:\Application\msaf\API\bin\System.Web.Cors.dll
+D:\Application\msaf\API\bin\System.Web.Http.Owin.dll
+D:\Application\msaf\API\bin\EntityFramework.SqlServer.xml
+D:\Application\msaf\API\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Application\msaf\API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Application\msaf\API\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Application\msaf\API\bin\Microsoft.Owin.xml
+D:\Application\msaf\API\bin\Microsoft.Owin.Cors.xml
+D:\Application\msaf\API\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Application\msaf\API\bin\Microsoft.Owin.Security.xml
+D:\Application\msaf\API\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Application\msaf\API\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Application\msaf\API\bin\System.Web.Http.Owin.xml
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\API.dll.config
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\API.XML
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\API.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\API.pdb
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\Antlr3.Runtime.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\CIGNAL_DATA.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\CIGNAL_ENTITY.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\CIGNAL_PROCESS.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\EntityFramework.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\EntityFramework.SqlServer.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\Microsoft.Owin.Cors.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\Microsoft.Owin.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\Microsoft.Owin.Security.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\Microsoft.Web.Infrastructure.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\Newtonsoft.Json.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\Owin.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\System.Net.Http.Formatting.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\System.Web.Cors.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\System.Web.Helpers.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\System.Web.Http.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\System.Web.Http.Owin.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\System.Web.Http.WebHost.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\System.Web.Mvc.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\System.Web.Optimization.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\System.Web.Providers.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\System.Web.Razor.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\System.Web.WebPages.Deployment.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\System.Web.WebPages.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\System.Web.WebPages.Razor.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\WebGrease.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\Microsoft.Practices.ObjectBuilder.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\CIGNAL_DATA.pdb
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\CIGNAL_ENTITY.pdb
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\CIGNAL_PROCESS.pdb
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\EntityFramework.xml
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\EntityFramework.SqlServer.xml
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\Microsoft.Owin.xml
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\Microsoft.Owin.Cors.xml
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\Microsoft.Owin.Security.xml
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\Newtonsoft.Json.xml
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\System.Net.Http.Formatting.xml
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\System.Web.Helpers.xml
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\System.Web.Http.xml
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\System.Web.Http.Owin.xml
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\System.Web.Http.WebHost.xml
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\System.Web.Mvc.xml
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\System.Web.Razor.xml
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\System.Web.WebPages.xml
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\System.Web.WebPages.Deployment.xml
+C:\DGAGUIRRE\Applications\MSAFII\API\bin\System.Web.WebPages.Razor.xml
+C:\DGAGUIRRE\Applications\MSAFII\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+C:\DGAGUIRRE\Applications\MSAFII\API\obj\Debug\API.dll
+C:\DGAGUIRRE\Applications\MSAFII\API\obj\Debug\API.pdb
+D:\APPLICATIONS\ESAF\0.2\API\bin\API.dll.config
+D:\APPLICATIONS\ESAF\0.2\API\bin\API.XML
+D:\APPLICATIONS\ESAF\0.2\API\bin\API.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\API.pdb
+D:\APPLICATIONS\ESAF\0.2\API\bin\Antlr3.Runtime.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\CIGNAL_DATA.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\CIGNAL_ENTITY.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\CIGNAL_PROCESS.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\EntityFramework.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\EntityFramework.SqlServer.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\Microsoft.AspNet.Identity.Core.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\Microsoft.Owin.Cors.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\Microsoft.Owin.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\Microsoft.Owin.Security.Cookies.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\Microsoft.Owin.Security.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\Microsoft.Owin.Security.OAuth.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\Microsoft.Web.Infrastructure.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\Newtonsoft.Json.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\Owin.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\System.Net.Http.Formatting.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\System.Web.Cors.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\System.Web.Helpers.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\System.Web.Http.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\System.Web.Http.Owin.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\System.Web.Http.WebHost.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\System.Web.Mvc.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\System.Web.Optimization.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\System.Web.Providers.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\System.Web.Razor.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\System.Web.WebPages.Deployment.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\System.Web.WebPages.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\System.Web.WebPages.Razor.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\WebGrease.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\APPLICATIONS\ESAF\0.2\API\bin\CIGNAL_DATA.pdb
+D:\APPLICATIONS\ESAF\0.2\API\bin\CIGNAL_ENTITY.pdb
+D:\APPLICATIONS\ESAF\0.2\API\bin\CIGNAL_PROCESS.pdb
+D:\APPLICATIONS\ESAF\0.2\API\bin\EntityFramework.xml
+D:\APPLICATIONS\ESAF\0.2\API\bin\EntityFramework.SqlServer.xml
+D:\APPLICATIONS\ESAF\0.2\API\bin\Microsoft.AspNet.Identity.Core.xml
+D:\APPLICATIONS\ESAF\0.2\API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\APPLICATIONS\ESAF\0.2\API\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\APPLICATIONS\ESAF\0.2\API\bin\Microsoft.Owin.xml
+D:\APPLICATIONS\ESAF\0.2\API\bin\Microsoft.Owin.Cors.xml
+D:\APPLICATIONS\ESAF\0.2\API\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\APPLICATIONS\ESAF\0.2\API\bin\Microsoft.Owin.Security.xml
+D:\APPLICATIONS\ESAF\0.2\API\bin\Microsoft.Owin.Security.Cookies.xml
+D:\APPLICATIONS\ESAF\0.2\API\bin\Microsoft.Owin.Security.OAuth.xml
+D:\APPLICATIONS\ESAF\0.2\API\bin\Newtonsoft.Json.xml
+D:\APPLICATIONS\ESAF\0.2\API\bin\System.Net.Http.Formatting.xml
+D:\APPLICATIONS\ESAF\0.2\API\bin\System.Web.Helpers.xml
+D:\APPLICATIONS\ESAF\0.2\API\bin\System.Web.Http.xml
+D:\APPLICATIONS\ESAF\0.2\API\bin\System.Web.Http.Owin.xml
+D:\APPLICATIONS\ESAF\0.2\API\bin\System.Web.Http.WebHost.xml
+D:\APPLICATIONS\ESAF\0.2\API\bin\System.Web.Mvc.xml
+D:\APPLICATIONS\ESAF\0.2\API\bin\System.Web.Razor.xml
+D:\APPLICATIONS\ESAF\0.2\API\bin\System.Web.WebPages.xml
+D:\APPLICATIONS\ESAF\0.2\API\bin\System.Web.WebPages.Deployment.xml
+D:\APPLICATIONS\ESAF\0.2\API\bin\System.Web.WebPages.Razor.xml
+D:\APPLICATIONS\ESAF\0.2\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+D:\APPLICATIONS\ESAF\0.2\API\obj\Debug\API.dll
+D:\APPLICATIONS\ESAF\0.2\API\obj\Debug\API.pdb
+D:\APPLICATIONS\ESAF\0.3\API\bin\API.dll.config
+D:\APPLICATIONS\ESAF\0.3\API\bin\API.XML
+D:\APPLICATIONS\ESAF\0.3\API\bin\API.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\API.pdb
+D:\APPLICATIONS\ESAF\0.3\API\bin\Antlr3.Runtime.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\CIGNAL_DATA.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\CIGNAL_ENTITY.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\CIGNAL_PROCESS.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\EntityFramework.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\EntityFramework.SqlServer.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\Microsoft.AspNet.Identity.Core.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\Microsoft.Owin.Cors.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\Microsoft.Owin.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\Microsoft.Owin.Security.Cookies.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\Microsoft.Owin.Security.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\Microsoft.Owin.Security.OAuth.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\Microsoft.Web.Infrastructure.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\Newtonsoft.Json.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\Owin.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\System.Net.Http.Formatting.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\System.Web.Cors.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\System.Web.Helpers.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\System.Web.Http.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\System.Web.Http.Owin.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\System.Web.Http.WebHost.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\System.Web.Mvc.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\System.Web.Optimization.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\System.Web.Providers.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\System.Web.Razor.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\System.Web.WebPages.Deployment.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\System.Web.WebPages.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\System.Web.WebPages.Razor.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\WebGrease.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\APPLICATIONS\ESAF\0.3\API\bin\CIGNAL_DATA.pdb
+D:\APPLICATIONS\ESAF\0.3\API\bin\CIGNAL_ENTITY.pdb
+D:\APPLICATIONS\ESAF\0.3\API\bin\CIGNAL_PROCESS.pdb
+D:\APPLICATIONS\ESAF\0.3\API\bin\EntityFramework.xml
+D:\APPLICATIONS\ESAF\0.3\API\bin\EntityFramework.SqlServer.xml
+D:\APPLICATIONS\ESAF\0.3\API\bin\Microsoft.AspNet.Identity.Core.xml
+D:\APPLICATIONS\ESAF\0.3\API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\APPLICATIONS\ESAF\0.3\API\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\APPLICATIONS\ESAF\0.3\API\bin\Microsoft.Owin.xml
+D:\APPLICATIONS\ESAF\0.3\API\bin\Microsoft.Owin.Cors.xml
+D:\APPLICATIONS\ESAF\0.3\API\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\APPLICATIONS\ESAF\0.3\API\bin\Microsoft.Owin.Security.xml
+D:\APPLICATIONS\ESAF\0.3\API\bin\Microsoft.Owin.Security.Cookies.xml
+D:\APPLICATIONS\ESAF\0.3\API\bin\Microsoft.Owin.Security.OAuth.xml
+D:\APPLICATIONS\ESAF\0.3\API\bin\Newtonsoft.Json.xml
+D:\APPLICATIONS\ESAF\0.3\API\bin\System.Net.Http.Formatting.xml
+D:\APPLICATIONS\ESAF\0.3\API\bin\System.Web.Helpers.xml
+D:\APPLICATIONS\ESAF\0.3\API\bin\System.Web.Http.xml
+D:\APPLICATIONS\ESAF\0.3\API\bin\System.Web.Http.Owin.xml
+D:\APPLICATIONS\ESAF\0.3\API\bin\System.Web.Http.WebHost.xml
+D:\APPLICATIONS\ESAF\0.3\API\bin\System.Web.Mvc.xml
+D:\APPLICATIONS\ESAF\0.3\API\bin\System.Web.Razor.xml
+D:\APPLICATIONS\ESAF\0.3\API\bin\System.Web.WebPages.xml
+D:\APPLICATIONS\ESAF\0.3\API\bin\System.Web.WebPages.Deployment.xml
+D:\APPLICATIONS\ESAF\0.3\API\bin\System.Web.WebPages.Razor.xml
+D:\APPLICATIONS\ESAF\0.3\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+D:\APPLICATIONS\ESAF\0.3\API\obj\Debug\API.dll
+D:\APPLICATIONS\ESAF\0.3\API\obj\Debug\API.pdb
+C:\joma\MSAF\API\bin\API.dll.config
+C:\joma\MSAF\API\bin\API.XML
+C:\joma\MSAF\API\bin\API.dll
+C:\joma\MSAF\API\bin\API.pdb
+C:\joma\MSAF\API\bin\Antlr3.Runtime.dll
+C:\joma\MSAF\API\bin\CIGNAL_DATA.dll
+C:\joma\MSAF\API\bin\CIGNAL_ENTITY.dll
+C:\joma\MSAF\API\bin\CIGNAL_PROCESS.dll
+C:\joma\MSAF\API\bin\EntityFramework.dll
+C:\joma\MSAF\API\bin\EntityFramework.SqlServer.dll
+C:\joma\MSAF\API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\joma\MSAF\API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\joma\MSAF\API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\joma\MSAF\API\bin\Microsoft.Owin.Cors.dll
+C:\joma\MSAF\API\bin\Microsoft.Owin.dll
+C:\joma\MSAF\API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\joma\MSAF\API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\joma\MSAF\API\bin\Microsoft.Owin.Security.dll
+C:\joma\MSAF\API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\joma\MSAF\API\bin\Microsoft.Web.Infrastructure.dll
+C:\joma\MSAF\API\bin\Newtonsoft.Json.dll
+C:\joma\MSAF\API\bin\Owin.dll
+C:\joma\MSAF\API\bin\System.Net.Http.Formatting.dll
+C:\joma\MSAF\API\bin\System.Web.Cors.dll
+C:\joma\MSAF\API\bin\System.Web.Helpers.dll
+C:\joma\MSAF\API\bin\System.Web.Http.dll
+C:\joma\MSAF\API\bin\System.Web.Http.Owin.dll
+C:\joma\MSAF\API\bin\System.Web.Http.WebHost.dll
+C:\joma\MSAF\API\bin\System.Web.Mvc.dll
+C:\joma\MSAF\API\bin\System.Web.Optimization.dll
+C:\joma\MSAF\API\bin\System.Web.Providers.dll
+C:\joma\MSAF\API\bin\System.Web.Razor.dll
+C:\joma\MSAF\API\bin\System.Web.WebPages.Deployment.dll
+C:\joma\MSAF\API\bin\System.Web.WebPages.dll
+C:\joma\MSAF\API\bin\System.Web.WebPages.Razor.dll
+C:\joma\MSAF\API\bin\WebGrease.dll
+C:\joma\MSAF\API\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\joma\MSAF\API\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\joma\MSAF\API\bin\Microsoft.Practices.ObjectBuilder.dll
+C:\joma\MSAF\API\bin\CIGNAL_DATA.pdb
+C:\joma\MSAF\API\bin\CIGNAL_ENTITY.pdb
+C:\joma\MSAF\API\bin\CIGNAL_PROCESS.pdb
+C:\joma\MSAF\API\bin\EntityFramework.xml
+C:\joma\MSAF\API\bin\EntityFramework.SqlServer.xml
+C:\joma\MSAF\API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\joma\MSAF\API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\joma\MSAF\API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\joma\MSAF\API\bin\Microsoft.Owin.xml
+C:\joma\MSAF\API\bin\Microsoft.Owin.Cors.xml
+C:\joma\MSAF\API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\joma\MSAF\API\bin\Microsoft.Owin.Security.xml
+C:\joma\MSAF\API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\joma\MSAF\API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\joma\MSAF\API\bin\Newtonsoft.Json.xml
+C:\joma\MSAF\API\bin\System.Net.Http.Formatting.xml
+C:\joma\MSAF\API\bin\System.Web.Helpers.xml
+C:\joma\MSAF\API\bin\System.Web.Http.xml
+C:\joma\MSAF\API\bin\System.Web.Http.Owin.xml
+C:\joma\MSAF\API\bin\System.Web.Http.WebHost.xml
+C:\joma\MSAF\API\bin\System.Web.Mvc.xml
+C:\joma\MSAF\API\bin\System.Web.Razor.xml
+C:\joma\MSAF\API\bin\System.Web.WebPages.xml
+C:\joma\MSAF\API\bin\System.Web.WebPages.Deployment.xml
+C:\joma\MSAF\API\bin\System.Web.WebPages.Razor.xml
+C:\joma\MSAF\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+C:\joma\MSAF\API\obj\Debug\API.dll
+C:\joma\MSAF\API\obj\Debug\API.pdb
+D:\Application\msaf\API\bin\API.XML
+C:\Development\Applications\MSAF\API\bin\API.dll.config
+C:\Development\Applications\MSAF\API\bin\API.XML
+C:\Development\Applications\MSAF\API\bin\API.dll
+C:\Development\Applications\MSAF\API\bin\API.pdb
+C:\Development\Applications\MSAF\API\bin\CIGNAL_DATA.dll
+C:\Development\Applications\MSAF\API\bin\CIGNAL_ENTITY.dll
+C:\Development\Applications\MSAF\API\bin\CIGNAL_PROCESS.dll
+C:\Development\Applications\MSAF\API\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Development\Applications\MSAF\API\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Development\Applications\MSAF\API\bin\Microsoft.Practices.ObjectBuilder.dll
+C:\Development\Applications\MSAF\API\bin\CIGNAL_DATA.pdb
+C:\Development\Applications\MSAF\API\bin\CIGNAL_ENTITY.pdb
+C:\Development\Applications\MSAF\API\bin\CIGNAL_PROCESS.pdb
+C:\Development\Applications\MSAF\API\bin\EntityFramework.xml
+C:\Development\Applications\MSAF\API\bin\EntityFramework.SqlServer.xml
+C:\Development\Applications\MSAF\API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Development\Applications\MSAF\API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Development\Applications\MSAF\API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Development\Applications\MSAF\API\bin\Microsoft.Owin.xml
+C:\Development\Applications\MSAF\API\bin\Microsoft.Owin.Cors.xml
+C:\Development\Applications\MSAF\API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Development\Applications\MSAF\API\bin\Microsoft.Owin.Security.xml
+C:\Development\Applications\MSAF\API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Development\Applications\MSAF\API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Development\Applications\MSAF\API\bin\Newtonsoft.Json.xml
+C:\Development\Applications\MSAF\API\bin\System.Net.Http.Formatting.xml
+C:\Development\Applications\MSAF\API\bin\System.Web.Helpers.xml
+C:\Development\Applications\MSAF\API\bin\System.Web.Http.xml
+C:\Development\Applications\MSAF\API\bin\System.Web.Http.Owin.xml
+C:\Development\Applications\MSAF\API\bin\System.Web.Http.WebHost.xml
+C:\Development\Applications\MSAF\API\bin\System.Web.Mvc.xml
+C:\Development\Applications\MSAF\API\bin\System.Web.Razor.xml
+C:\Development\Applications\MSAF\API\bin\System.Web.WebPages.xml
+C:\Development\Applications\MSAF\API\bin\System.Web.WebPages.Deployment.xml
+C:\Development\Applications\MSAF\API\bin\System.Web.WebPages.Razor.xml
+C:\Development\Applications\MSAF\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+C:\Development\Applications\MSAF\API\obj\Debug\API.dll
+C:\Development\Applications\MSAF\API\obj\Debug\API.pdb
+C:\Development\Applications\MSAF\API\bin\Antlr3.Runtime.dll
+C:\Development\Applications\MSAF\API\bin\EntityFramework.dll
+C:\Development\Applications\MSAF\API\bin\EntityFramework.SqlServer.dll
+C:\Development\Applications\MSAF\API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Development\Applications\MSAF\API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Development\Applications\MSAF\API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Development\Applications\MSAF\API\bin\Microsoft.Owin.Cors.dll
+C:\Development\Applications\MSAF\API\bin\Microsoft.Owin.dll
+C:\Development\Applications\MSAF\API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Development\Applications\MSAF\API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Development\Applications\MSAF\API\bin\Microsoft.Owin.Security.dll
+C:\Development\Applications\MSAF\API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Development\Applications\MSAF\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Development\Applications\MSAF\API\bin\Newtonsoft.Json.dll
+C:\Development\Applications\MSAF\API\bin\Owin.dll
+C:\Development\Applications\MSAF\API\bin\System.Net.Http.Formatting.dll
+C:\Development\Applications\MSAF\API\bin\System.Web.Cors.dll
+C:\Development\Applications\MSAF\API\bin\System.Web.Helpers.dll
+C:\Development\Applications\MSAF\API\bin\System.Web.Http.dll
+C:\Development\Applications\MSAF\API\bin\System.Web.Http.Owin.dll
+C:\Development\Applications\MSAF\API\bin\System.Web.Http.WebHost.dll
+C:\Development\Applications\MSAF\API\bin\System.Web.Mvc.dll
+C:\Development\Applications\MSAF\API\bin\System.Web.Optimization.dll
+C:\Development\Applications\MSAF\API\bin\System.Web.Providers.dll
+C:\Development\Applications\MSAF\API\bin\System.Web.Razor.dll
+C:\Development\Applications\MSAF\API\bin\System.Web.WebPages.Deployment.dll
+C:\Development\Applications\MSAF\API\bin\System.Web.WebPages.dll
+C:\Development\Applications\MSAF\API\bin\System.Web.WebPages.Razor.dll
+C:\Development\Applications\MSAF\API\bin\WebGrease.dll
+C:\Development\Applications\MSAF0.2\API\bin\API.dll.config
+C:\Development\Applications\MSAF0.2\API\bin\API.XML
+C:\Development\Applications\MSAF0.2\API\bin\API.dll
+C:\Development\Applications\MSAF0.2\API\bin\API.pdb
+C:\Development\Applications\MSAF0.2\API\bin\Antlr3.Runtime.dll
+C:\Development\Applications\MSAF0.2\API\bin\CIGNAL_DATA.dll
+C:\Development\Applications\MSAF0.2\API\bin\CIGNAL_ENTITY.dll
+C:\Development\Applications\MSAF0.2\API\bin\CIGNAL_PROCESS.dll
+C:\Development\Applications\MSAF0.2\API\bin\EntityFramework.dll
+C:\Development\Applications\MSAF0.2\API\bin\EntityFramework.SqlServer.dll
+C:\Development\Applications\MSAF0.2\API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Development\Applications\MSAF0.2\API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Development\Applications\MSAF0.2\API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Development\Applications\MSAF0.2\API\bin\Microsoft.Owin.Cors.dll
+C:\Development\Applications\MSAF0.2\API\bin\Microsoft.Owin.dll
+C:\Development\Applications\MSAF0.2\API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Development\Applications\MSAF0.2\API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Development\Applications\MSAF0.2\API\bin\Microsoft.Owin.Security.dll
+C:\Development\Applications\MSAF0.2\API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Development\Applications\MSAF0.2\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Development\Applications\MSAF0.2\API\bin\Newtonsoft.Json.dll
+C:\Development\Applications\MSAF0.2\API\bin\Owin.dll
+C:\Development\Applications\MSAF0.2\API\bin\System.Net.Http.Formatting.dll
+C:\Development\Applications\MSAF0.2\API\bin\System.Web.Cors.dll
+C:\Development\Applications\MSAF0.2\API\bin\System.Web.Helpers.dll
+C:\Development\Applications\MSAF0.2\API\bin\System.Web.Http.dll
+C:\Development\Applications\MSAF0.2\API\bin\System.Web.Http.Owin.dll
+C:\Development\Applications\MSAF0.2\API\bin\System.Web.Http.WebHost.dll
+C:\Development\Applications\MSAF0.2\API\bin\System.Web.Mvc.dll
+C:\Development\Applications\MSAF0.2\API\bin\System.Web.Optimization.dll
+C:\Development\Applications\MSAF0.2\API\bin\System.Web.Providers.dll
+C:\Development\Applications\MSAF0.2\API\bin\System.Web.Razor.dll
+C:\Development\Applications\MSAF0.2\API\bin\System.Web.WebPages.Deployment.dll
+C:\Development\Applications\MSAF0.2\API\bin\System.Web.WebPages.dll
+C:\Development\Applications\MSAF0.2\API\bin\System.Web.WebPages.Razor.dll
+C:\Development\Applications\MSAF0.2\API\bin\WebGrease.dll
+C:\Development\Applications\MSAF0.2\API\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Development\Applications\MSAF0.2\API\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Development\Applications\MSAF0.2\API\bin\Microsoft.Practices.ObjectBuilder.dll
+C:\Development\Applications\MSAF0.2\API\bin\CIGNAL_DATA.pdb
+C:\Development\Applications\MSAF0.2\API\bin\CIGNAL_ENTITY.pdb
+C:\Development\Applications\MSAF0.2\API\bin\CIGNAL_PROCESS.pdb
+C:\Development\Applications\MSAF0.2\API\bin\EntityFramework.xml
+C:\Development\Applications\MSAF0.2\API\bin\EntityFramework.SqlServer.xml
+C:\Development\Applications\MSAF0.2\API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Development\Applications\MSAF0.2\API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Development\Applications\MSAF0.2\API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Development\Applications\MSAF0.2\API\bin\Microsoft.Owin.xml
+C:\Development\Applications\MSAF0.2\API\bin\Microsoft.Owin.Cors.xml
+C:\Development\Applications\MSAF0.2\API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Development\Applications\MSAF0.2\API\bin\Microsoft.Owin.Security.xml
+C:\Development\Applications\MSAF0.2\API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Development\Applications\MSAF0.2\API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Development\Applications\MSAF0.2\API\bin\Newtonsoft.Json.xml
+C:\Development\Applications\MSAF0.2\API\bin\System.Net.Http.Formatting.xml
+C:\Development\Applications\MSAF0.2\API\bin\System.Web.Helpers.xml
+C:\Development\Applications\MSAF0.2\API\bin\System.Web.Http.xml
+C:\Development\Applications\MSAF0.2\API\bin\System.Web.Http.Owin.xml
+C:\Development\Applications\MSAF0.2\API\bin\System.Web.Http.WebHost.xml
+C:\Development\Applications\MSAF0.2\API\bin\System.Web.Mvc.xml
+C:\Development\Applications\MSAF0.2\API\bin\System.Web.Razor.xml
+C:\Development\Applications\MSAF0.2\API\bin\System.Web.WebPages.xml
+C:\Development\Applications\MSAF0.2\API\bin\System.Web.WebPages.Deployment.xml
+C:\Development\Applications\MSAF0.2\API\bin\System.Web.WebPages.Razor.xml
+C:\Development\Applications\MSAF0.2\API\obj\Debug\API.dll
+C:\Development\Applications\MSAF0.2\API\obj\Debug\API.pdb
+C:\Development\MSAF\API\bin\API.dll.config
+C:\Development\MSAF\API\bin\API.XML
+C:\Development\MSAF\API\bin\API.dll
+C:\Development\MSAF\API\bin\API.pdb
+C:\Development\MSAF\API\bin\Antlr3.Runtime.dll
+C:\Development\MSAF\API\bin\CIGNAL_DATA.dll
+C:\Development\MSAF\API\bin\CIGNAL_ENTITY.dll
+C:\Development\MSAF\API\bin\CIGNAL_PROCESS.dll
+C:\Development\MSAF\API\bin\EntityFramework.dll
+C:\Development\MSAF\API\bin\EntityFramework.SqlServer.dll
+C:\Development\MSAF\API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Development\MSAF\API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Development\MSAF\API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Development\MSAF\API\bin\Microsoft.Owin.Cors.dll
+C:\Development\MSAF\API\bin\Microsoft.Owin.dll
+C:\Development\MSAF\API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Development\MSAF\API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Development\MSAF\API\bin\Microsoft.Owin.Security.dll
+C:\Development\MSAF\API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Development\MSAF\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Development\MSAF\API\bin\Newtonsoft.Json.dll
+C:\Development\MSAF\API\bin\Owin.dll
+C:\Development\MSAF\API\bin\System.Net.Http.Formatting.dll
+C:\Development\MSAF\API\bin\System.Web.Cors.dll
+C:\Development\MSAF\API\bin\System.Web.Helpers.dll
+C:\Development\MSAF\API\bin\System.Web.Http.dll
+C:\Development\MSAF\API\bin\System.Web.Http.Owin.dll
+C:\Development\MSAF\API\bin\System.Web.Http.WebHost.dll
+C:\Development\MSAF\API\bin\System.Web.Mvc.dll
+C:\Development\MSAF\API\bin\System.Web.Optimization.dll
+C:\Development\MSAF\API\bin\System.Web.Providers.dll
+C:\Development\MSAF\API\bin\System.Web.Razor.dll
+C:\Development\MSAF\API\bin\System.Web.WebPages.Deployment.dll
+C:\Development\MSAF\API\bin\System.Web.WebPages.dll
+C:\Development\MSAF\API\bin\System.Web.WebPages.Razor.dll
+C:\Development\MSAF\API\bin\WebGrease.dll
+C:\Development\MSAF\API\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Development\MSAF\API\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Development\MSAF\API\bin\Microsoft.Practices.ObjectBuilder.dll
+C:\Development\MSAF\API\bin\CIGNAL_DATA.pdb
+C:\Development\MSAF\API\bin\CIGNAL_ENTITY.pdb
+C:\Development\MSAF\API\bin\CIGNAL_PROCESS.pdb
+C:\Development\MSAF\API\bin\EntityFramework.xml
+C:\Development\MSAF\API\bin\EntityFramework.SqlServer.xml
+C:\Development\MSAF\API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Development\MSAF\API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Development\MSAF\API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Development\MSAF\API\bin\Microsoft.Owin.xml
+C:\Development\MSAF\API\bin\Microsoft.Owin.Cors.xml
+C:\Development\MSAF\API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Development\MSAF\API\bin\Microsoft.Owin.Security.xml
+C:\Development\MSAF\API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Development\MSAF\API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Development\MSAF\API\bin\Newtonsoft.Json.xml
+C:\Development\MSAF\API\bin\System.Net.Http.Formatting.xml
+C:\Development\MSAF\API\bin\System.Web.Helpers.xml
+C:\Development\MSAF\API\bin\System.Web.Http.xml
+C:\Development\MSAF\API\bin\System.Web.Http.Owin.xml
+C:\Development\MSAF\API\bin\System.Web.Http.WebHost.xml
+C:\Development\MSAF\API\bin\System.Web.Mvc.xml
+C:\Development\MSAF\API\bin\System.Web.Razor.xml
+C:\Development\MSAF\API\bin\System.Web.WebPages.xml
+C:\Development\MSAF\API\bin\System.Web.WebPages.Deployment.xml
+C:\Development\MSAF\API\bin\System.Web.WebPages.Razor.xml
+C:\Development\MSAF\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+C:\Development\MSAF\API\obj\Debug\API.dll
+C:\Development\MSAF\API\obj\Debug\API.pdb
+C:\Development\Applications\MSAF0.2\API\obj\Debug\API.csprojAssemblyReference.cache
+C:\Development\Applications\MSAF0.2\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\Development\Applications\MSAF0.2\API\obj\Debug\API.csproj.CopyComplete

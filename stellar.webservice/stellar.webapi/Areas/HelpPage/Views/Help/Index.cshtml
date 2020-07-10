@@ -1,0 +1,43 @@
+@using System.Web.Http
+@using System.Web.Http.Controllers
+@using System.Web.Http.Description
+@using System.Collections.ObjectModel
+@using API.Areas.HelpPage.Models
+@model Collection<ApiDescription>
+
+@{
+    ViewBag.Title = "Stellar Web API Help Page";
+
+    // Group APIs by controller
+    //ILookup<HttpControllerDescriptor, ApiDescription> apiGroups = Model.ToLookup(api => api.ActionDescriptor.ControllerDescriptor);
+    ILookup<HttpControllerDescriptor, ApiDescription> apiGroups = Model.OrderBy(d => d.ActionDescriptor.ControllerDescriptor.ControllerName).ToLookup(api => api.ActionDescriptor.ControllerDescriptor);
+}
+
+<link type="text/css" href="~/Areas/HelpPage/HelpPage.css" rel="stylesheet" />
+                     <header class="help-page" style="background-color: black; color: white ">
+                         <div class="content-wrapper">
+                             <div class="float-left">
+                                 @*<img src="" style="display: inline-block; height: 80px;">*@
+                                 <p style="font-size: 25px;">Stellar Web API Help Page</p>
+                             </div>
+                         </div>
+                     </header>
+<div id="body" class="help-page">
+    <section class="featured">
+        <div class="content-wrapper">
+            <h2>Introduction</h2>
+            <p>
+                Base URL: <a>http://ionavetech-001-site2.ctempurl.com/</a>
+            </p>
+            <p>
+                Token Creation: <a>http://ionavetech-001-site2.ctempurl.com/token</a>
+            </p>
+        </div>
+    </section>
+    <section class="content-wrapper main-content clear-fix">
+        @foreach (var group in apiGroups)
+        {
+            @Html.DisplayFor(m => group, "ApiGroup")
+        }
+    </section>
+</div>
